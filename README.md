@@ -1,6 +1,6 @@
 # TreeMap Getting Started Android
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Android TreeMap](https://help.syncfusion.com/xamarin-android/sftreemap/getting-started) control.
+This repository contains sample for how to get started with the [Syncfusion Xamarin.Android TreeMap](https://help.syncfusion.com/xamarin-android/sftreemap/getting-started) control. The TreeMap control provides a simple yet effective way to visualize flat or hierarchical data as clustered rectangles with a specific weighted attribute that determines the size of the rectangle.
 
 ## Syncfusion controls
 
